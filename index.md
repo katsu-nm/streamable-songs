@@ -87,14 +87,17 @@ In this repository you will find a list of artists, specific songs, and record l
 #### [Permission](https://twitter.com/derivakat/status/1379212721737003009)
 * * *
 
-# Specific Songs/Albums/Playlists
+# Specific Songs/Albums/Playlists/Labels
 
 ### [Rav - Spotify (Specific playlist)](https://open.spotify.com/playlist/1XhYMuR2iFtRjalJ5ZYLEM?si=ltjPMtFJTqCeJJh-WhD8mg&nd=1)   
 #### [Permission](https://twitter.com/iamrav/status/1270115198138036224?lang=en)
 * * *
-### [bbno$ - Spotify (excluding: lalala, badboy, whip a tesla)](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz?si=XmksxifuRIGTcJeOlrVVfg)   
+### [bbno$ - Spotify (All songs excluding: lalala, badboy, whip a tesla)](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz?si=XmksxifuRIGTcJeOlrVVfg)   
 #### [Permission](https://twitter.com/bbnomula/status/1271903546229719042)
 * * *
-
-
-#  Record Labels
+### [nintety9lives - Website](https://www.ninety9lives.com/music/)   
+#### [Licensing/FAQ](https://www.ninety9lives.com/about/)
+* * *
+### [Monstercat - Website (paid)](https://www.monstercat.com)   
+#### [Licensing/FAQ](https://www.monstercat.com/gold)
+* * *
