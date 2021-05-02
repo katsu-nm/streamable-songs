@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to streamable-songs!
 
 You can use the [editor on GitHub](https://github.com/katsu-nm/streamable-songs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
