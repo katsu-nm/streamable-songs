@@ -1,7 +1,8 @@
 # Welcome to streamable-songs!
 
-In this repository you will find a list of artists, specific songs, and record labels who have declared that their music is able to be used freely on streaming services
+In this repository you will find a list of artists, playlists, and record labels who allow for their music to be used in live broadcasts and/or videos varying on the permission they have given.
 
+If you have any additions, concerns, or general enquiries please DM me on discord at katsu#4504
 
 # Artists
 
