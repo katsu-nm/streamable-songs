@@ -103,3 +103,12 @@ In this repository you will find a list of artists, specific songs, and record l
 ### Specific Songs
 
 ### Record Labels
+
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
+| [Artist - Spotify]() | [Permissions]() |
