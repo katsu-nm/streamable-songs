@@ -1,73 +1,106 @@
-## Welcome to streamable-songs!
+# Welcome to streamable-songs!
 
 In this repository you will find a list of artists, specific songs, and record labels who have declared that their music is able to be used freely on streaming services
 
-### Artists
 
-## [AJ Tracey - Spotify](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U?si=9hO-gJJWSbCV8RQLOyJwWQ)   [Permission](https://twitter.com/ajtracey/status/1271066936781258753)
+# Artists
 
-## [Crypt - Spotify]()   ### [Permission]()
+## [AJ Tracey - Spotify](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U?si=9hO-gJJWSbCV8RQLOyJwWQ)
+### [Permission](https://twitter.com/ajtracey/status/1271066936781258753)
 
-## [Pandrezz - Spotify]()   ### [Permission]()
+## [Crypt - Spotify]()   
+### [Permission]()
 
-## [WOLFCLUB - Spotify]()   ### [Permission]()
+## [Pandrezz - Spotify]()   
+### [Permission]()
 
-## [EDEN - Spotify]()   ### [Permission]()
+## [WOLFCLUB - Spotify]()   
+### [Permission]()
 
-## [mxmtoon - Spotify]()   ### [Permission]()
+## [EDEN - Spotify]()   
+### [Permission]()
 
-## [iamJakeHill - Spotify]()   ### [Permission]()
+## [mxmtoon - Spotify]()   
+### [Permission]()
 
-## [Hoodie Allen - Spotify]()   ### [Permission]()
+## [iamJakeHill - Spotify]()   
+### [Permission]()
 
-## [Josh A - Spotify]()   ### [Permission]()
+## [Hoodie Allen - Spotify]()   
+### [Permission]()
 
-## [bbno$ - Spotify]()   ### [Permission]()
+## [Josh A - Spotify]()   
+### [Permission]()
 
-## [Rav - Spotify]()   ### [Permission]()
+## [bbno$ - Spotify]()   
+### [Permission]()
 
-## [LilyPichu - Spotify]()   ### [Permission]()
+## [Rav - Spotify]()   
+### [Permission]()
 
-## [PelleK - Spotify]()   ### [Permission]()
+## [LilyPichu - Spotify]()   
+### [Permission]()
 
-## [Talia Mar - Spotify]()   ### [Permission]()
+## [PelleK - Spotify]()   
+### [Permission]()
 
-## [KSI - Spotify]()   ### [Permission]()
+## [Talia Mar - Spotify]()   
+### [Permission]()
 
-## [VI Seconds - Spotify]()   ### [Permission]()
+## [KSI - Spotify]()   
+### [Permission]()
 
-## [$NOT - Spotify]()   ### [Permission]()
+## [VI Seconds - Spotify]()   
+### [Permission]()
 
-## [Lunacy - Spotify]()   ### [Permission]()
+## [$NOT - Spotify]()   
+### [Permission]()
 
-## [Rogue VHS - Spotify]()   ### [Permission]()
+## [Lunacy - Spotify]()   
+### [Permission]()
 
-## [Quadeca - Spotify]()   ### [Permission]()
+## [Rogue VHS - Spotify]()   
+### [Permission]()
 
-## [Meltycanon - Spotify]()   ### [Permission]()
+## [Quadeca - Spotify]()   
+### [Permission]()
 
-## [Kitsune - Spotify]()   ### [Permission]()
+## [Meltycanon - Spotify]()   
+### [Permission]()
 
-## [Halocene - Spotify]()   ### [Permission]()
+## [Kitsune - Spotify]()   
+### [Permission]()
 
-## [Elijah Kyle - Spotify]()   ### [Permission]()
+## [Halocene - Spotify]()   
+### [Permission]()
 
-## [Dan Bull - Spotify]()   ### [Permission]()
+## [Elijah Kyle - Spotify]()   
+### [Permission]()
 
-## [Dance With the Dead - Spotify]()   ### [Permission]()
+## [Dan Bull - Spotify]()   
+### [Permission]()
 
-## [Crinkles - Spotify]()   ### [Permission]()
+## [Dance With the Dead - Spotify]()   
+### [Permission]()
 
-## [Control - Spotify]()   ### [Permission]()
+## [Crinkles - Spotify]()   
+### [Permission]()
 
-## [Bazanji - Spotify]()   ### [Permission]()
+## [Control - Spotify]()   
+### [Permission]()
 
-## [love-sadKID - Spotify]()   ### [Permission]()
+## [Bazanji - Spotify]()   
+### [Permission]()
 
-## [QuinnXCII - Spotify]()   ### [Permission]()
+## [love-sadKID - Spotify]()   
+### [Permission]()
 
-## [Derivakat - Spotify]()   ### [Permission]()
+## [QuinnXCII - Spotify]()   
+### [Permission]()
 
-### ### Specific Songs
+## [Derivakat - Spotify]()   
+### [Permission]()
 
-######  Record Labels
+# Specific Songs
+
+#  Record Labels
