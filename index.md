@@ -5,100 +5,100 @@ In this repository you will find a list of artists, specific songs, and record l
 ### Artists
 
 * [AJ Tracey - Spotify](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U?si=9hO-gJJWSbCV8RQLOyJwWQ)
- * [Permission](https://twitter.com/ajtracey/status/1271066936781258753)
+	* [Permission](https://twitter.com/ajtracey/status/1271066936781258753)
 
 * [Crypt - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Pandrezz - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [WOLFCLUB - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [EDEN - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [mxmtoon - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [iamJakeHill - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Hoodie Allen - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Josh A - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [bbno$ - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Rav - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [LilyPichu - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [PelleK - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Talia Mar - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [KSI - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [VI Seconds - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [$NOT - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Lunacy - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Rogue VHS - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Quadeca - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Meltycanon - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Kitsune - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Halocene - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Elijah Kyle - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Dan Bull - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Dance With the Dead - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Crinkles - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Control - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Bazanji - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [love-sadKID - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [QuinnXCII - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 * [Derivakat - Spotify]()
- * [Permission]()
+	* [Permission]()
 
 ### Specific Songs
 
