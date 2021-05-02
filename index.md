@@ -4,7 +4,7 @@ In this repository you will find a list of artists, specific songs, and record l
 
 ### Artists
 
-[AJ Tracey - Spotify](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U?si=9hO-gJJWSbCV8RQLOyJwWQ) ##| [AJ Tracey - Permission](https://twitter.com/ajtracey/status/1271066936781258753)
+[AJ Tracey - Spotify](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U?si=9hO-gJJWSbCV8RQLOyJwWQ) | [Permission](https://twitter.com/ajtracey/status/1271066936781258753)
 
 ### Specific Songs
 
