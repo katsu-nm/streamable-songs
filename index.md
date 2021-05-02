@@ -8,6 +8,9 @@ In this repository you will find a list of artists, specific songs, and record l
 ### [AJ Tracey - Spotify](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U?si=9hO-gJJWSbCV8RQLOyJwWQ)
 #### [Permission](https://twitter.com/ajtracey/status/1271066936781258753)
 * * *
+### [EDEN - Spotify](https://open.spotify.com/album/5eESUGzjysOJC0S2y2KwYn)   
+#### [Permission](https://twitter.com/iameden/status/1281709771155021825)
+* * *
 ### [Crypt - Spotify](https://open.spotify.com/artist/1WIHbvNZTybCVHFMbzuGJo)   
 #### [Permission](https://twitter.com/CryptTheRapper/status/1269806304333303810)
 * * *
@@ -92,8 +95,6 @@ In this repository you will find a list of artists, specific songs, and record l
 ### [bbno$ - Spotify (excluding: lalala, badboy, whip a tesla)](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz?si=XmksxifuRIGTcJeOlrVVfg)   
 #### [Permission](https://twitter.com/bbnomula/status/1271903546229719042)
 * * *
-### [EDEN - Spotify (End Credits EP)](https://open.spotify.com/album/5eESUGzjysOJC0S2y2KwYn)   
-#### [Permission](https://twitter.com/iameden/status/1270857338220695554)
-* * *
+
 
 #  Record Labels
