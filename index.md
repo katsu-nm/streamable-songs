@@ -105,10 +105,34 @@ In this repository you will find a list of artists, specific songs, and record l
 ### Record Labels
 
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
 | [Artist - Spotify]() | [Permissions]() |
+
+
+| [Artist - Spotify]() | [Permissions]() |
+
+
+| [Artist - Spotify]() | [Permissions]() |
+
+
+| [Artist - Spotify]() | [Permissions]() |
+
+
+| [Artist - Spotify]() | [Permissions]() |
+
+
+| [Artist - Spotify]() | [Permissions]() |
+
+
